@@ -2,7 +2,7 @@
 
 **AI-powered Resume and Job Description Matcher using NLP.**
 
-JobAlignAI uses natural language processing to intelligently match candidate resumes with job descriptions, providing a similarity score and insights based on textual relevance.
+JobAlignAI applies advanced natural language processing to compare resumes with job descriptions, evaluating how closely they align and providing a relevance score along with meaningful analytical insights.
 
 ---
 
